@@ -1,0 +1,12 @@
+{
+  "name": "admintry",
+  "displayName": "admintry",
+  "expo": {
+    "name": "admintry",
+    "slug": "admintry",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
